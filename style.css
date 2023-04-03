@@ -1,0 +1,36 @@
+img{
+    width: 250px;
+    height: 250px;
+}
+#plus_img{
+    width: 150px;
+    height: 150px;
+}
+#sub_img{
+    width: 150px;
+    height: 150px;
+}
+#mult_img{
+    width: 150px;
+    height: 150px;
+}
+#divide_img{
+    width: 150px;
+    height: 150px;
+}
+
+body{
+    background-color: aquamarine;
+}
+#choosepage{
+    background-color: skyblue;
+    border-radius: 15px;
+    width: 20%;
+}
+#mathimg{
+    border-radius: 15px;
+}
+#back{
+    margin-top: 50px;
+    margin-left: 50px;
+}
